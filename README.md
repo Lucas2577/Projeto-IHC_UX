@@ -41,7 +41,7 @@ Prodruct Owner: Representa o cliente
 Development Team: Equipe de desenvolvimento
 Scrum Master: Guia da reunião
 Sprint(s): Projeto em ciclos
-
+TRELO
 
 
 
