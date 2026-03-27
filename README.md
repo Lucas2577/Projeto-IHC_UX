@@ -30,9 +30,20 @@ COMO?
 Realizaremos o projeto nas linguagens, HTML e CSS.
 
 QUANTO?
-100 horas.
+-
 
 QUANTOS?
+100 horas.
+
+Ferramenta SCRUM
+Gestão de Projeto
+Prodruct Owner: Representa o cliente
+Development Team: Equipe de desenvolvimento
+Scrum Master: Guia da reunião
+Sprint(s): Projeto em ciclos
+
+
+
 
 
 
